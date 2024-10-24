@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  />
+<!--   <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  /> -->
 </div>
 
 ###
