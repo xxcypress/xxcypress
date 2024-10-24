@@ -8,7 +8,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
 <!--   <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  /> -->
+
+
 </div>
 
 ###
@@ -43,3 +45,4 @@
 </div>
 
 ###
+
