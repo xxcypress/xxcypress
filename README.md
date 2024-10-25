@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <br />
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&lang_count=6&hide=html,mdx,lua,astro,makefile&layout=compact&theme=midnight-purple&hide_border=true" alt="top-lang" />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&lang_count=6&hide=html,mdx&layout=compact&theme=midnight-purple&hide_border=true" alt="top-lang" />
   <img src="https://github-readme-stats.vercel.app/api?username=cypressen&theme=midnight-purple&show_icons=false&hide_title=true&card_width=300&include_all_commits=true&show=reviews&hide_border=true" alt="stats"/>
 </div>
 
