@@ -50,6 +50,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31lomalhhyutguwjxuabz7bwemjy">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lomalhhyutguwjxuabz7bwemjy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=0043a7&bar_color_cover=true" alt="currenly palying"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lomalhhyutguwjxuabz7bwemjy&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
