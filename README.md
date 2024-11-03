@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&langs_count=4&hide=html,mdx,lua&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true" alt="top-lang" />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&langs_count=4&hide=html,mdx,lua,css,scss&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.4&count_weight=0.6&exclude_repo=cs61b" alt="top-lang" />
   <img src="https://github-readme-stats.vercel.app/api?username=cypressen&theme=midnight-purple&show_icons=false&hide_title=true&card_width=300&include_all_commits=true&show=reviews&hide_border=true" alt="stats"/>
   <a herf="https://github.com/anuraghazra/github-readme-stats" >
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cypressen&hide_title=false&theme=midnight-purple&hide_border=true" alt="wakatime" />
