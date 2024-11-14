@@ -10,7 +10,12 @@
 
 ###
 
-<div align="center">
+# Preference            
+<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />  <br/>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  /><img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  />
+
+# Learnt
+
 <div>
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
@@ -21,19 +26,16 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo" />
 </div>
-
-  
-  <div>
+<div>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="40" alt="astro logo"  />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="40" alt="electron logo"  />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  />
-  </div>
-
-
 </div>
+
+
 
 
 
