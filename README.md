@@ -3,9 +3,9 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&langs_count=5&hide=html,mdx,lua,css,scss,Dockerfile&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&exclude_repo=cs61b" alt="top-lang" />
   <img src="https://github-readme-stats.vercel.app/api?username=cypressen&theme=midnight-purple&show_icons=false&hide_title=true&card_width=300&include_all_commits=true&show=reviews&hide_border=true" alt="stats"/>
 
-  <a herf="https://github.com/anuraghazra/github-readme-stats" >
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cypressen&hide_title=false&theme=midnight-purple&hide_border=true" alt="wakatime" />
-  </a>      
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cypressen&hide_title=false&theme=midnight-purple&hide_border=true" alt="wakatime" />
+  
 </div>
 
 ###
@@ -37,12 +37,11 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31lomalhhyutguwjxuabz7bwemjy">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lomalhhyutguwjxuabz7bwemjy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=0043a7&bar_color_cover=true" alt="currenly palying"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lomalhhyutguwjxuabz7bwemjy&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<div>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lomalhhyutguwjxuabz7bwemjy&count=5&unique=true" alt="Spotify recently played"  />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lomalhhyutguwjxuabz7bwemjy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=0043a7&bar_color_cover=true" alt="currenly palying"/>
+</div>  
+
 
 ###
 
