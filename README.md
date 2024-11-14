@@ -1,12 +1,12 @@
 
 <div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&langs_count=5&hide=html,mdx,lua,css,scss&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.4&count_weight=0.6&exclude_repo=cs61b" alt="top-lang" />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&langs_count=5&hide=html,mdx,lua,css,scss,Dockerfile&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&exclude_repo=cs61b" alt="top-lang" />
   <img src="https://github-readme-stats.vercel.app/api?username=cypressen&theme=midnight-purple&show_icons=false&hide_title=true&card_width=300&include_all_commits=true&show=reviews&hide_border=true" alt="stats"/>
+
   <a herf="https://github.com/anuraghazra/github-readme-stats" >
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cypressen&hide_title=false&theme=midnight-purple&hide_border=true" alt="wakatime" />
-  </a>
+  </a>      
 </div>
-
 
 ###
 
@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  />
 </div>
-
-
-
-
 
 ###
 
