@@ -1,15 +1,9 @@
-
-<div align="center">
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cypressen&theme=midnight-purple&show_icons=false&hide_title=true&card_width=300&include_all_commits=true&hide_border=true&border_radius=15&" alt="stats"/>
-
-  <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&langs_count=5&hide=html,mdx,lua,css,scss,Dockerfile&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&exclude_repo=cs61b&border_radius=15" alt="top-lang" />
-
-
-
   <img width=700 src="https://github-readme-stats.vercel.app/api/wakatime?username=@cypressen&hide_title=false&theme=midnight-purple&hide_border=true&layout=compact&langs_count=6&border_radius=15" alt="wakatime" />
-  
-</div>              
+<div>
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=cypressen&theme=midnight-purple&show_icons=false&hide_title=true&card_width=300&include_all_commits=true&hide_border=true&border_radius=15&" alt="stats"/>
+  <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cypressen&langs_count=5&hide=html,mdx,lua,css,scss,Dockerfile&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&exclude_repo=cs61b&border_radius=15" alt="top-lang" />
+</div>
+             
 
 ###
 
