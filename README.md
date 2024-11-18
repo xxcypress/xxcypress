@@ -9,7 +9,7 @@
 
 # Preference            
 <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />  <br/>
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  /><img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  /><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  /><img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  />
 
 # Learnt
 
