@@ -3,7 +3,7 @@
   <img  height=180 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xxcypress&langs_count=5&hide=html,mdx,lua,css,scss,Dockerfile&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&exclude_repo=cs61b&border_radius=15" alt="top-lang" />
 </div>
   <img width=800 src="https://github-readme-stats.vercel.app/api/wakatime?username=@xxcypress&hide_title=false&theme=midnight-purple&hide_border=true&layout=compact&langs_count=6&border_radius=15" alt="wakatime" />
-             
+<a href="https://wakatime.com/@14b070c9-094f-45e7-9ce5-faa07f653591"><img src="https://wakatime.com/badge/user/14b070c9-094f-45e7-9ce5-faa07f653591.svg" alt="Total time coded since Oct 25 2024" /></a>
 
 ###
 
