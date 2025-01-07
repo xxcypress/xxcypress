@@ -39,11 +39,12 @@
     <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo" />
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo" />
   </div>
-<h2>Spotify</h2>
-  <div>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lomalhhyutguwjxuabz7bwemjy&count=5&unique=true&border_radius=15" alt="Spotify recently played" style="height: 400px;" />
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lomalhhyutguwjxuabz7bwemjy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=0043a7&bar_color_cover=true&border_radius=15" alt="currently playing" style="height: 400px;" />
-  </div>
+  <h2>Spotify</h2>
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lomalhhyutguwjxuabz7bwemjy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=0043a7&bar_color_cover=true&border_radius=15" alt="currently playing" style="height: 300px;width: 600px;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lomalhhyutguwjxuabz7bwemjy&count=5&unique=true&border_radius=15" alt="Spotify recently played" style="height: 300px;">
+</div>
+
 </details>
 
 
