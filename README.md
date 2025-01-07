@@ -41,7 +41,7 @@
   </div>
   <h2>Spotify</h2>
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lomalhhyutguwjxuabz7bwemjy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=0043a7&bar_color_cover=true&border_radius=15" alt="currently playing" style="height: 350px;">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lomalhhyutguwjxuabz7bwemjy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=0043a7&bar_color_cover=true&border_radius=15" alt="currently playing" style="max-height: 350px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lomalhhyutguwjxuabz7bwemjy&count=5&unique=true&border_radius=15" alt="Spotify recently played" style="height: 350px;">
 </div>
 
