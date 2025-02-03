@@ -1,6 +1,6 @@
 <div>
-  <img  height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=xxcypress&theme=midnight-purple&show_icons=false&hide_title=true&card_width=300&include_all_commits=true&hide_border=true&border_radius=15&" alt="stats"/>
-  <img  height=180 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xxcypress&langs_count=5&hide=html,mdx,lua,css,scss,Dockerfile&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&exclude_repo=cs61b&border_radius=15" alt="top-lang" />
+<!--   <img  height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=xxcypress&theme=midnight-purple&show_icons=false&hide_title=true&card_width=300&include_all_commits=true&hide_border=true&border_radius=15&" alt="stats"/>
+  <img  height=180 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xxcypress&langs_count=5&hide=html,mdx,lua,css,scss,Dockerfile&layout=donut&theme=midnight-purple&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&exclude_repo=cs61b&border_radius=15" alt="top-lang" /> -->
 </div>
 <div>
   <img width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xxcypress&hide_title=false&theme=midnight-purple&hide_border=true&layout=compact&langs_count=6&border_radius=15" alt="wakatime" />
@@ -13,11 +13,11 @@
 
 
 <div>
-  <h1>Preference</h1>
+<!--   <h1>Preference</h1>
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" /> <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />  <br/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  /><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  /><img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  /><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  /><img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  /> -->
 </div>
-<details>
+<!-- <details>
   <summary><h1>More</h1></summary>
   <h2>Learnt</h2>
   <div>
@@ -45,7 +45,7 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lomalhhyutguwjxuabz7bwemjy&count=5&unique=true&border_radius=15" alt="Spotify recently played" style="height: 350px;">
 </div>
 
-</details>
+</details> -->
 
 
 
